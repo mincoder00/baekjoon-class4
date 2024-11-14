@@ -6,7 +6,9 @@
 ## 문제 목록
 
 1. [15650번: N과 M (2)](https://www.acmicpc.net/problem/15650)
+2. [15652번: N과 M (4)](https://www.acmicpc.net/problem/15652)
 
 ## 푼 날짜
 
 1.  solvedAt 2024/11/09
+2.  solvedAt 2024/11/14
